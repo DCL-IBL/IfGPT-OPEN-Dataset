@@ -1,16 +1,116 @@
 {
   "dataset": [
     {
-      "name": "CURLICAT (BG)",
-      "link": "https://drive.google.com/file/d/1ZpzDv-HsGPUQyDfoFOZRK4pwSeWsKsZ_/view?usp=drive_link"
-    },
-    {
       "name": "MARCELL (BG)",
-      "link": "https://drive.google.com/file/d/1TV1q2gj8nAUFQ5USfXF3VWDSm9YKAVcv/view?usp=drive_link"
+      "language": "Bulgarian",
+      "period": "1946–2023",
+      "domain": "Legal",
+      "document_types": [
+        "Administrative court decisions",
+        "Agreements",
+        "Amendments",
+        "Conventions",
+        "Decrees",
+        "Directives",
+        "Laws",
+        "Orders",
+        "Protocols",
+        "Regulations",
+        "Resolutions"
+      ],
+      "size": {
+        "texts": 25000,
+        "sentences": 3280000,
+        "tokens": 45000000
+      },
+      "format": "CoNLL-U+",
+      "annotation": [
+        "Morphological",
+        "Dependency parsing",
+        "Named Entity Recognition",
+        "EuroVoc",
+        "IATE"
+      ],
+      "source": "Bulgarian State Gazette",
+      "licence": "Public Domain",
+      "licence_url": "",
+      "processor_class": "MarcellProcessor",
+      "download_url": "https://drive.google.com/file/d/1TV1q2gj8nAUFQ5USfXF3VWDSm9YKAVcv/view?usp=drive_link"
     },
     {
-      "name": "WIKIPEDIA (BG)",
-      "link": "https://drive.google.com/file/d/1dBfgA05qCGslHWrVaV4r0OdOhh8Doym_/view?usp=drive_link"
+      "name": "CURLICAT (BG)",
+      "language": "Bulgarian",
+      "period": "",
+      "domain": "Multi-domain",
+      "document_types": [
+        "Web articles",
+        "Books",
+        "PhD theses",
+        "Scientific publications"
+      ],
+      "domains": [
+        "Culture",
+        "Education",
+        "EU",
+        "Finance",
+        "Politics",
+        "Economics",
+        "Science"
+      ],
+      "size": {
+        "texts": 6000,
+        "sentences": null,
+        "tokens": 22800000
+      },
+      "format": ["CoNLL-U+", "JSON"],
+      "annotation": [
+        "Full linguistic annotation"
+      ],
+      "source": [
+        "BulNC",
+        "Scientific books",
+        "PhD theses",
+        "Web content"
+      ],
+      "licences": [
+        {
+          "name": "CC-BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "name": "CC-BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "name": "CC-BY-NC 4.0",
+          "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "processor_class": "CurlicatProcessor",
+      "download_url": "https://drive.google.com/file/d/1ZpzDv-HsGPUQyDfoFOZRK4pwSeWsKsZ_/view?usp=drive_link"
+    },
+    {
+      "name": "Wikipedia (BG)",
+      "language": "Bulgarian",
+      "period": "up to December 2025",
+      "domain": "Encyclopedic",
+      "document_types": [
+        "Wikipedia articles"
+      ],
+      "size": {
+        "texts": null,
+        "sentences": null,
+        "tokens": null
+      },
+      "format": "Plain text (extracted from MediaWiki XML)",
+      "annotation": [],
+      "source": "Bulgarian Wikipedia",
+      "source_url": "https://dumps.wikimedia.org/bgwiki/",
+      "dump_date": "2025-12",
+      "licence": "CC-BY-SA 4.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "processor_class": "BulNCWikiProcessor",
+      "download_url": "https://drive.google.com/file/d/1dBfgA05qCGslHWrVaV4r0OdOhh8Doym_/view?usp=drive_link"
     }
   ]
 }
