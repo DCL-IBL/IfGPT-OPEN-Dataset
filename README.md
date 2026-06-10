@@ -17,7 +17,6 @@ This collection includes three Bulgarian-language datasets covering legal, multi
 | Field | Value |
 |---|---|
 | **Language** | Bulgarian |
-| **Period** | 1946–2023 |
 | **Domain** | Legal |
 | **Size** | ~25,000 texts / 3.28M sentences / 45M tokens |
 | **Source** | Bulgarian State Gazette |
