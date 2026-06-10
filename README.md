@@ -22,7 +22,7 @@ This collection includes three Bulgarian-language datasets covering legal, multi
 | **Size** | ~25,000 texts / 3.28M sentences / 45M tokens |
 | **Source** | Bulgarian State Gazette |
 | **Licence** | Public Domain |
-| **Download** | [Link](https://drive.google.com/file/d/1TV1q2gj8nAUFQ5USfXF3VWDSm9YKAVcv/view?usp=drive_link) |
+| **Download** | [Link](https://huggingface.co/datasets/DCL-IBL/IfGPT-OPEN-Dataset/blob/main/IfGPT_MARCELL.tar.gz) |
 
 ### CURLICAT (BG)
 
@@ -33,7 +33,7 @@ This collection includes three Bulgarian-language datasets covering legal, multi
 | **Size** | ~6,000 texts / 22.8M tokens |
 | **Source** | BulNC, scientific books, PhD theses, web content |
 | **Licence** | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
-| **Download** | [Link](https://drive.google.com/file/d/1ZpzDv-HsGPUQyDfoFOZRK4pwSeWsKsZ_/view?usp=drive_link) |
+| **Download** | [Link](https://huggingface.co/datasets/DCL-IBL/IfGPT-OPEN-Dataset/blob/main/IfGPT_CURLICAT.tar.gz) |
 
 ### Wikipedia (BG)
 
@@ -44,7 +44,7 @@ This collection includes three Bulgarian-language datasets covering legal, multi
 | **Domain** | Encyclopedic |
 | **Source** | [Bulgarian Wikipedia](https://dumps.wikimedia.org/bgwiki/) |
 | **Licence** | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| **Download** | [Link](https://drive.google.com/file/d/1dBfgA05qCGslHWrVaV4r0OdOhh8Doym_/view?usp=drive_link) |
+| **Download** | [Link](https://huggingface.co/datasets/DCL-IBL/IfGPT-OPEN-Dataset/blob/main/IfGPT_WIKIPEDIA_2025-12-01_CLEAN.tar.gz) |
 
 ## License
 
