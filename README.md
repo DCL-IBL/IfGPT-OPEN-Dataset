@@ -10,6 +10,42 @@ IfGPT is a large dataset of Bulgarian which encompasses texts from various sourc
 
 Here we include only cleaned and deduplicated data from the IfGPT Dataset with licenses allowing redistribution.
 
+This collection includes three Bulgarian-language datasets covering legal, multi-domain, and encyclopedic text.
+
+### MARCELL (BG)
+
+| Field | Value |
+|---|---|
+| **Language** | Bulgarian |
+| **Period** | 1946–2023 |
+| **Domain** | Legal |
+| **Size** | ~25,000 texts / 3.28M sentences / 45M tokens |
+| **Source** | Bulgarian State Gazette |
+| **Licence** | Public Domain |
+| **Download** | [Link](https://drive.google.com/file/d/1TV1q2gj8nAUFQ5USfXF3VWDSm9YKAVcv/view?usp=drive_link) |
+
+### CURLICAT (BG)
+
+| Field | Value |
+|---|---|
+| **Language** | Bulgarian |
+| **Domain** | Multi-domain (Culture, Education, EU, Finance, Politics, Economics, Science) |
+| **Size** | ~6,000 texts / 22.8M tokens |
+| **Source** | BulNC, scientific books, PhD theses, web content |
+| **Licence** | [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) |
+| **Download** | [Link](https://drive.google.com/file/d/1ZpzDv-HsGPUQyDfoFOZRK4pwSeWsKsZ_/view?usp=drive_link) |
+
+### Wikipedia (BG)
+
+| Field | Value |
+|---|---|
+| **Language** | Bulgarian |
+| **Period** | Up to December 2025 (dump: 2025-12) |
+| **Domain** | Encyclopedic |
+| **Source** | [Bulgarian Wikipedia](https://dumps.wikimedia.org/bgwiki/) |
+| **Licence** | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| **Download** | [Link](https://drive.google.com/file/d/1dBfgA05qCGslHWrVaV4r0OdOhh8Doym_/view?usp=drive_link) |
+
 ## License
 
 Creative Commons Attribution 4.0 International (CC-BY-4.0)
