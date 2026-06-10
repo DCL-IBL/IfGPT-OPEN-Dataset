@@ -35,7 +35,7 @@
       "licence": "Public Domain",
       "licence_url": "",
       "processor_class": "MarcellProcessor",
-      "download_url": "https://drive.google.com/file/d/1TV1q2gj8nAUFQ5USfXF3VWDSm9YKAVcv/view?usp=drive_link"
+      "download_url": "https://huggingface.co/datasets/DCL-IBL/IfGPT-OPEN-Dataset/blob/main/IfGPT_MARCELL.tar.gz"
     },
     {
       "name": "CURLICAT (BG)",
@@ -87,7 +87,7 @@
         }
       ],
       "processor_class": "CurlicatProcessor",
-      "download_url": "https://drive.google.com/file/d/1ZpzDv-HsGPUQyDfoFOZRK4pwSeWsKsZ_/view?usp=drive_link"
+      "download_url": "https://huggingface.co/datasets/DCL-IBL/IfGPT-OPEN-Dataset/blob/main/IfGPT_CURLICAT.tar.gz"
     },
     {
       "name": "Wikipedia (BG)",
@@ -110,7 +110,7 @@
       "licence": "CC-BY-SA 4.0",
       "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "processor_class": "BulNCWikiProcessor",
-      "download_url": "https://drive.google.com/file/d/1dBfgA05qCGslHWrVaV4r0OdOhh8Doym_/view?usp=drive_link"
+      "download_url": "https://huggingface.co/datasets/DCL-IBL/IfGPT-OPEN-Dataset/blob/main/IfGPT_WIKIPEDIA_2025-12-01_CLEAN.tar.gz"
     }
   ]
 }
